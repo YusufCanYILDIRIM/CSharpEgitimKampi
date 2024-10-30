@@ -28,3 +28,6 @@ Sekizinci dersimizle beraber giriş seviye eğitimimizi tamamlamış olduk. Bu e
 
 # 📍Proje9 : Veri Tabanı:
 Dokuzuncu dersimizde veritabanı konusuna giriş yaptık. MsSql konusunda bilgiler edindik ve üç tablo oluşturduk. Bu tabloları C# ile bağladık ve ekrana yansıttık 💻
+
+# 📍Proje10 : SQL CRUD İşlemleri:
+C# ile SQL Listeleme Ekleme Güncelleme ve Silme İşlemleri Crud İşlemleri konusunu tamamladım.
